@@ -24,6 +24,6 @@ Story Telling
 Imagine a patient, John Doe, aged 45, seeking medical attention for a heart condition. He is referred to the Cardiology department, where Dr. Smith, a renowned cardiologist, provides expert care. John resides in Lagos, one of the major cities in Nigeria, ensuring easy access to the healthcare facilities.
 This shows the interconnectedness of the healthcare system, where patients can benefit from specialized care, accessible locations, and a diverse range of medical professionals.
 
-Conclusion
+## Conclusion
 The analysis of the Healthcare Patient database provides valuable insights into the patient population, doctor specializations, geographical distribution, and departmental structure. These findings can inform strategic planning, resource allocation, and service improvements to enhance the overall quality of healthcare delivery.
 
