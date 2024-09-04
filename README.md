@@ -219,7 +219,7 @@ ON P.StateID=S.StateID
 ### Recommendations
 - From the age bracket it shows that from 45 and above goes for health care services,therefore more health facilities should be provided for such age bracketto met their needs
 - Availability in more states should be encouraged for easy accesibility 
-- More equipments shoud be provided as it has many specializations and also their is need for paient care
+- More equipments shoud be provided as it has many specializations and also their is need for patient care
 ### Conclusion
 The analysis of the Healthcare Patient database provides valuable insights into the patient population, doctor specializations, geographical distribution, and departmental structure. These findings helps for strategic planning, resource allocation, and service improvements to enhance the overall quality of healthcare delivery.
 
